@@ -1,0 +1,28 @@
+body {
+    background-color: seagreen;
+    text-align: center;
+    border: dotted;
+    border-width: 5px;
+    border-color: cyan;
+  }
+  h1 {
+    border: dashed;
+    border-width: 8px;
+    border-color: yellow;
+    color: darkred;
+  }
+  p {
+    
+    border-color: black;
+    border-width: 10px;
+    color: lightblue;
+    font-size: medium;
+    font-weight: bold;
+    font-family: cursive;
+  }
+  img {
+    border: dashed;
+    border-color: red;
+    border-width: 10px;
+  }
+  
